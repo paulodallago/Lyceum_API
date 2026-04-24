@@ -45,3 +45,8 @@ A API tem como responsabilidade a criação usuários e gerenciamento de sessõe
 - Autenticação de usuários com JWT
 - Persistência no Postgres, utilizando Sequelize
 - Testes automatizados com Jest
+
+### Teste
+
+Está disponível através do comando "npm test" um teste automatizado de todas as rotas.
+Também está na pasta /src/tests um arquivo json para importação no Postman, com todas as requisições necessárias.
